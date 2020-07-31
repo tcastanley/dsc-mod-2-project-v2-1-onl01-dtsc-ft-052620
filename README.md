@@ -1,7 +1,7 @@
 # King County Housing Market
-## Green Build Subsidy Analysis & Recommendations
+### Green Build Subsidy Analysis & Recommendations
 
-## Dataset - King County House Sales (over 21,000 Records!)
+### Dataset - King County House Sales (over 21,000 Records!) https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Purpose of Analysis
 The KC Municipality has proposed a bill to provide a Green Build Housing Subsidy for qualifying new-builds and 
