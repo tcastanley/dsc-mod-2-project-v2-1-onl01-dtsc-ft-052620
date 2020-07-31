@@ -1,5 +1,4 @@
-# King County Housing Market
-### Green Build Subsidy Analysis & Recommendations
+# King County Housing Market - Green Build Subsidy Analysis & Recommendations
 
 ### Dataset - King County House Sales (over 21,000 Records!) https://www.kaggle.com/harlfoxem/housesalesprediction
 
