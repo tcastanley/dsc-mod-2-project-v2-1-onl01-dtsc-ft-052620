@@ -17,17 +17,17 @@ subsidies are to be granted.
 #### 3. Should subsidy amounts differ based on the build-type?
 
 ## Recommendations
-#### Question 1. 
-##### The determination of ‘low-activity’ housing markets can be viewed in two different lights:
-##### -Objective housing sales per city or;
-##### -Housing sales per capita per city.
+### Question 1. 
+#### The determination of ‘low-activity’ housing markets can be viewed in two different lights:
+#### -Objective housing sales per city or;
+#### -Housing sales per capita per city.
 
-#### Question 2 & 3
-##### The data has shown that there is a difference in market values for new-build homes versus renovated homes.  However, the differences between the two can vary greatly depending on the average condition and grade of homes per city.
+### Question 2 & 3
+#### The data has shown that there is a difference in market values for new-build homes versus renovated homes.  However, the differences between the two can vary greatly depending on the average condition and grade of homes per city.
 
 ## Future Work
-##### 1. More information about local economies & construction costs to determine if subsidy would be an effective incentive.
-##### 2.  Local environmental concerns, as they likely vary widely throughout the county.
+#### 1. More information about local economies & construction costs to determine if subsidy would be an effective incentive.
+#### 2.  Local environmental concerns, as they likely vary widely throughout the county.
 
 # Visualizations Samples
 ### KC Zipcode to City Conversion
