@@ -19,8 +19,22 @@ subsidies are to be granted.
 ## Recommendations
 ### Question 1. 
 #### The determination of ‘low-activity’ housing markets can be viewed in two different lights:
-#### -Objective housing sales per city or;
-#### -Housing sales per capita per city.
+#### 1. Objective housing sales per city:
+##### 1. Fall City - 79 (0.003%)
+##### 2.Black Diamond - 98 (0.004%)
+##### 3.Vashon - 116 (0.005%)
+##### 4.Carnation - 122 (0.005%)
+##### 5.Duvall - 188 (0.008%)
+
+#### or;
+
+#### -Housing sales per capita per city:
+##### 1. Bothell - 195 (0.006 per person)
+##### 2. Kent - 1201 (0.008 per person)
+##### 3. Federal Way - 779 (0.008 per person)
+##### 4. Auburn - 911 (0.010 per person)
+##### 5 . Seattle - 8973 (0.010 per person)
+
 
 ### Question 2 & 3
 #### The data has shown that there is a difference in market values for new-build homes versus renovated homes.  However, the differences between the two can vary greatly depending on the average condition and grade of homes per city.
