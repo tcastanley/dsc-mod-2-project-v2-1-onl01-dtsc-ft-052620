@@ -52,4 +52,4 @@ subsidies are to be granted.
 
 ## Final Model Residuals
 ![png](README_images/output_164_1.png)
-![png](README_images/output_171_1.png)
+![png](README_images/output_171_0.png)
